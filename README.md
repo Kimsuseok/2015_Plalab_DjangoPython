@@ -12,7 +12,8 @@
 * 상품조회서비스 만들기 : 김대황
 * 네모네모로직 게임 서버 만들기 : 이근섭
 * 홍창우 : 쉐이킷알람 대쉬보드
-
+* 김수석 : 단어장 앱 회원체계 및 게시판 
+* 
 # Meeting
 * [2015. 05. 28 11시 40분 804](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150528.md)
 * [2015. 06. 11 11시 30분 803BL](https://github.com/neilpark/2015_Plalab_DjangoPython/blob/master/20150611.md)
